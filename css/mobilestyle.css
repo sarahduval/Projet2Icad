@@ -1,0 +1,106 @@
+/* Logo */
+
+#logo {
+    font-size: 3rem;
+    margin: auto;
+    margin-bottom: 6rem;
+}
+
+/* header */
+
+header {
+    padding: 2rem;
+
+}
+
+/* NAVIGATION */
+
+.nav {
+    grid-row: 2;
+    display: block;
+}
+
+nav li {
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+ul {
+    display: block;
+}
+
+li {
+    text-align: center;
+    margin: 2rem;
+    font-size: 1.5rem;
+}
+
+.contact {
+    grid-row: 2;
+}
+
+/* PRESENTATION DE L'ENTREPRISE */
+
+button {
+    width: 18rem;
+    font-size: 15px;
+}
+
+.presentation {
+    display: block;
+    padding: 0 2rem;
+    margin-top: 0;
+}
+
+.presentation-entreprise {
+    width: 100%;
+}
+
+.pool {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+/* A PROPOS */
+
+#apropos {
+    display: block;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.apropos {
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.apropos2 {
+    padding-left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* PRESENTATION SERVICES */
+
+#carres {
+    display: block;
+    margin: 0;
+    margin-top: 2rem
+}
+
+.carre {
+    margin: auto;
+    padding: 1rem;
+}
+
+/* FOOTER */
+
+footer {
+    padding: 2rem;
+    display: block;
+}
+
+footer div {
+    padding-bottom: 2rem;
+}
